@@ -6,7 +6,19 @@ A multi-view finger vein database. Contains 235 classes, each classes contains 1
 https://github.com/JinXins/Adversarial-AutoMixup/assets/124172716/632b81d4-14cc-4b4c-bfb5-9404a25048a3
 
 ## 2️⃣ CTUB 2D Finger-Vien Dataset
-Coming soon!
+There are 80 acquisition objects in total. Each object is collected for the left and right index fingers, and each finger is collected eight times. Each video can be converted into a sequence of 60 finger vein images. The rotation angle of two adjacent finger vein images is 6°.  
+ 
+**Folder introduction:**  
+**FV-0:** full-view finger vein images including 12 angles of *0°, 30°, ..., 330°*;  
+**FV-6:** simulated rotation dataset, including full-view images of finger veins at angles of *6°, 36°, ..., 336°*;  
+**FV-12:** simulated rotation dataset, including full-view images of finger veins at angles of *12°, 42°, ..., 342°*;  
+**FV-18:** Simulated rotation dataset, including full-view images of finger veins at angles of *18°, 48°, ..., 348°*;  
+**FV-24:** simulated rotation dataset, including full-view images of finger veins at angles of *24°, 54°, ..., 354°*;  
+
+<p align="center">
+<img width="500" alt="FV-test" src="https://github.com/JinXins/Adversarial-AutoMixup/assets/124172716/b21260bf-373b-4d53-966f-a59a479fc17c">
+</p>
+
 
 ## ✅ Download
 Send the license agreement to qinhuafengfeng@163.com. The successful applicants will receive the download link for the **CTBU-FV Dataset**(choose one of the two dataset or both).
