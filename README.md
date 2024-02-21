@@ -1,4 +1,4 @@
-# 💬 CTBU-FV Dataset
+# 👏 CTBU-FV Dataset
 
 ## 1️⃣ CTBU Full Finger-Vien Dataset 
 A multi-view finger vein database. Contains 235 classes, each classes contains 10 3-second videos at 20 frames per second (3*20 sample images), 10 videos from different fingers on the left and right.  
@@ -14,7 +14,7 @@ Send the license agreement to qinhuafengfeng@163.com. The successful applicants 
 ## © Copyright
 All rights of the CTBU-FV Dataset are reserved. The dataset is only available for academic research and noncommercial purposes. Any commercial uses of this database are strictly prohibited.
 
-## Contact Information:
+## 💬 Contact Information:
 **👨‍🏫 Head of Laboratory:** **Prof. [Huafeng Qin](https://scholar.google.com/citations?user=5jvXcJ0AAAAJ&hl=zh-CN).**  
 
 **🏫 Chongqing Intelligence Perception and Block Chain Technology Key Lab, Biometric Identification Group.**  
