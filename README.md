@@ -11,11 +11,11 @@ A multi-view finger vein database. Contains 235 classes, each classes contains 1
 There are 80 acquisition objects in total. Each object is collected for the left and right index fingers, and each finger is collected eight times. Each video can be converted into a sequence of 60 finger vein images. The rotation angle of two adjacent finger vein images is 6°.  
  
 **Folder introduction:**  
-**FV-0:** full-view finger vein images including 12 angles of *0°, 30°, ..., 330°*;  
-**FV-6:** simulated rotation dataset, including full-view images of finger veins at angles of *6°, 36°, ..., 336°*;  
-**FV-12:** simulated rotation dataset, including full-view images of finger veins at angles of *12°, 42°, ..., 342°*;  
-**FV-18:** Simulated rotation dataset, including full-view images of finger veins at angles of *18°, 48°, ..., 348°*;  
-**FV-24:** simulated rotation dataset, including full-view images of finger veins at angles of *24°, 54°, ..., 354°*;  
+**FV-0:** Full-view Finger Vein Images including 12 angles of *0°, 30°, ..., 330°*;  
+**FV-6:** Simulated rotation Dataset, including Full-View Images of Finger Veins at angles of *6°, 36°, ..., 336°*;  
+**FV-12:** Simulated rotation Dataset, including Full-View Images of Finger Veins at angles of *12°, 42°, ..., 342°*;  
+**FV-18:** Simulated rotation Dataset, including Full-View Images of Finger Veins at angles of *18°, 48°, ..., 348°*;  
+**FV-24:** Simulated rotation Dataset, including Full-View Images of Finger Veins at angles of *24°, 54°, ..., 354°*;  
 
 <p align="center">
 <img width="500" alt="FV-test" src="https://github.com/JinXins/Adversarial-AutoMixup/assets/124172716/b21260bf-373b-4d53-966f-a59a479fc17c">
@@ -26,7 +26,7 @@ There are 80 acquisition objects in total. Each object is collected for the left
 Send the `License Agreement.docx` to qinhuafengfeng@163.com. The successful applicants will receive the download link for the **CTBU-FV Dataset**(choose one of the two dataset or both).
 
 ## © Copyright
-All rights of the CTBU-FV Dataset are reserved. The dataset is only available for academic research and noncommercial purposes. Any commercial uses of this database are strictly prohibited.
+All rights of the **CTBU-FV Dataset** Dataset are reserved. The dataset is only available for academic research and noncommercial purposes. Any commercial uses of this database are strictly prohibited.
 
 ## 💬 Contact Information:
 **👨‍🏫 Head of Laboratory:** **Prof. [Huafeng Qin](https://scholar.google.com/citations?user=5jvXcJ0AAAAJ&hl=zh-CN).**  
