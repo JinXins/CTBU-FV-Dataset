@@ -7,7 +7,7 @@ A multi-view finger vein database. Contains 235 classes, each classes contains 1
 <video width="500" alt="FV-test" src="https://github.com/JinXins/Adversarial-AutoMixup/assets/124172716/632b81d4-14cc-4b4c-bfb5-9404a25048a3">
 </p>
 
-## 2️⃣ CTUB 2D Finger-Vien Dataset
+## 2️⃣ CTBU 2D Finger-Vien Dataset
 There are 80 acquisition objects in total. Each object is collected for the left and right index fingers, and each finger is collected eight times. Each video can be converted into a sequence of 60 finger vein images. The rotation angle of two adjacent finger vein images is 6°.  
  
 **Folder introduction:**  
