@@ -33,4 +33,16 @@ All rights of the CTBU-FV Dataset are reserved. The dataset is only available fo
 
 **📧 Email: qinhuafengfeng@163.com**  
 
-## Related Papers:
+## 📖 Related Papers & Citation:
+- **Local Attention Transformer-based Full-View Finger-Vein Identification, 2022, TCSVT** *[PDF](https://ieeexplore.ieee.org/abstract/document/9973408)*
+
+```markdown
+@article{qin2022local,
+  title={Local attention transformer-based full-view finger-vein identification},
+  author={Qin, Huafeng and Hu, Rongshan and El-Yacoubi, Mounim A and Li, Yantao and Gao, Xinbo},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2022},
+  publisher={IEEE}
+}
+```
+___
