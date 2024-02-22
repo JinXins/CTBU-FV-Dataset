@@ -23,7 +23,7 @@ There are 80 acquisition objects in total. Each object is collected for the left
 
 
 ## ✅ Download
-Send the license agreement to qinhuafengfeng@163.com. The successful applicants will receive the download link for the **CTBU-FV Dataset**(choose one of the two dataset or both).
+Send the `License Agreement.docx` to qinhuafengfeng@163.com. The successful applicants will receive the download link for the **CTBU-FV Dataset**(choose one of the two dataset or both).
 
 ## © Copyright
 All rights of the CTBU-FV Dataset are reserved. The dataset is only available for academic research and noncommercial purposes. Any commercial uses of this database are strictly prohibited.
