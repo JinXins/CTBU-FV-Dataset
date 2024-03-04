@@ -21,6 +21,9 @@ There are 80 acquisition objects in total. Each object is collected for the left
 <img width="500" alt="FV-test" src="https://github.com/JinXins/Adversarial-AutoMixup/assets/124172716/b21260bf-373b-4d53-966f-a59a479fc17c">
 </p>
 
+## 💥 News
+[2024.3.4] **We have now released our eye movement database!** `CTBU-EMglasses-Database`. **You can find in this link.** [here](https://github.com/zzx734570533/CTBU-EMglasses-database)
+
 
 ## ✅ Download
 Send the `License Agreement.docx` to qinhuafengfeng@163.com. The successful applicants will receive the download link for the **CTBU-FV Dataset**(choose one of the two dataset or both).
